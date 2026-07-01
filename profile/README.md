@@ -19,6 +19,7 @@ Check the [Thereminuscule Signal Library](https://wildflux-experience.github.io/
 ## The Nano-Modules
 
 ⚡ On GitHub : https://github.com/wildflux-experience/thereminuscule-nano-module
+
 The *Nano-Modules* are simple, low-cost electronic devices typically based on Arduino boards that can turn physical quantities, in a broad sense, into digital data streams compatible with Thereminuscule. They act as a bridge between the real world and the virtual world. There are many ways to measure the effect of an action, a movement, or a state using a physical quantity and a suitable sensor, opening the door to a wide variety of Nano-Modules to imagine and create.
 
 ---
